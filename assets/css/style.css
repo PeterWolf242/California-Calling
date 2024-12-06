@@ -148,7 +148,7 @@ header .header_buttom {
 }
 
 .history {
-  background: url('/assets/img/map.svg') no-repeat;
+  background: url('/assets/img/map.png') no-repeat;
   background-position: right bottom;
   background-size: 40vw;
   padding-left: 10vw;
