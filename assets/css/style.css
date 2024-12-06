@@ -317,7 +317,7 @@ header .header_buttom {
   width: 50rem;
   height: auto;
   bottom: -20rem;
-  left: 20vw;
+  left: 10rem;
   z-index: 3;
 }
 
@@ -325,7 +325,7 @@ header .header_buttom {
   width: 20rem;
   height: auto;
   bottom: -10rem;
-  right: 25vw;
+  right: 20rem;
   z-index: 5;
 }
 
@@ -333,7 +333,7 @@ header .header_buttom {
   width: 20rem;
   height: auto;
   bottom: -5rem;
-  left: 20vw;
+  left: 15rem;
   z-index: 5;
 }
 
@@ -341,7 +341,7 @@ header .header_buttom {
   width: 50rem;
   height: auto;
   bottom: -15rem;
-  right: 25vw;
+  right: 20rem;
   z-index: 3;
 }
 
@@ -433,9 +433,9 @@ header .header_buttom {
 }
 
 .dj_highlight article .letter_animation p {
-  display: inline-block;
+  display: flex;
   margin: auto;
-  padding: 10px 0 10px 0;
+  padding: 10px 0;
   font-family: 'Lora', serif;
   font-weight: bolder;
   font-size: 5rem;
